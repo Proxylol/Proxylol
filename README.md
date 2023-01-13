@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Proxy</h1>
 <h3 align="center">I upload random Roblox scripts and websites here.</h3>
 
-- I mainly work with LuaU. **I'm always learning more and different languages.**
+- **I mainly work with LuaU but I'm always learning more and different languages.**
 
-- Work **Most of my work are either privated or deleted.**
+- **Most of my work are either privated or deleted.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
