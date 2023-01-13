@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Proxy</h1>
 <h3 align="center">I upload random Roblox scripts and websites here.</h3>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
