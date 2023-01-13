@@ -3,6 +3,8 @@
 
 - I mainly work with LuaU. **I'm always learning more and different languages.**
 
+- Work **Most of my work are either privated or deleted.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
